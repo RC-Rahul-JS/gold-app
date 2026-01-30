@@ -1,0 +1,1 @@
+MediaSourceHandle.export={"name":"Gold App","version":"1.0.0","description":"An application for managing gold transactions","main":"index.js","scripts":{"start":"node index.js","test":"echo \"Error: no test specified\" && exit 1"},"author":"Your Name","license":"ISC","dependencies":{"express":"^4.17.1","mongoose":"^5.10.9"}}
